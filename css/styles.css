@@ -1,0 +1,21 @@
+
+h1{
+    width: 100%;
+    text-align: center; font: 50px Courier New, Monospace;
+    color: #00cc00; font-weight: bold;
+}
+
+h2{
+    width: 100%;
+    text-align: center; font: 45px Courier New, Monospace;
+    color: #00cc00; font-weight: bold;
+}
+
+p.text-centered{
+    font: 20px Courier New, Monospace; text-align: center;
+    color: #00cc00; font-weight: bold;
+}
+
+body {
+  background-color: #000a00;
+}
